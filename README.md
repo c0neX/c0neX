@@ -1,6 +1,6 @@
-<h1 align="center">Hey, eu sou o c0ne 👋</h1>
+<!-- 🧠 Typing SVG Header -->
 <p align="center">
-  <em>Offensive Security Enthusiast | Bug Bounty Hunter | Ethical Hacker</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+c0ne+%F0%9F%91%8B;Offensive+Security+Enthusiast;Bug+Bounty+Hunter;Red+Team+%7C+Python%7CMalware" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,65 +9,58 @@
 
 ---
 
-### 💻 Sobre mim
+### 💻 About Me
 
-- 🕶️ Profissional de segurança ofensiva com foco em pentest e automações
-- 🔍 Bug bounty hunter em tempo livre
-- 💻 Desenvolvedor de scripts e ferramentas em Python e shell
-- 🧪 Criador de labs pessoais para estudar evasão, C2, e pós-exploração
+- 🕶️ Offensive Security Analyst focused on pentesting and automation
+- 🔍 Bug bounty hunter on public and private platforms
+- 💻 Developer of offensive tools using Python and Shell
+- 🧪 Creator of personal labs to study evasion, C2, and post-exploitation
 
 ---
 
-### 🧰 Stack de Ferramentas
+### 🧰 My Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-1f8ac0?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-ZAP-blue?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-3c3c3d?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BugBounty-HackerOne-black?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<h2 align="center">🧰 My Toolkit</h2> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,cs,cpp,metasploit,powershell&perline=8" alt="My Tools"/> 
 </p>
 
----
-
-### 📦 Projetos em destaque
-
-- 🔐 **Keylogger educativo** com saída limpa, zip criptografado e envio SMTP
-- ⚙️ **Recon toolkit** para bug bounty com automações de subdomínios, portas, screenshots
-- 🧬 **Payload builder** com options de evasão básica para labs
 
 ---
 
-### 📚 Estudando agora
+### 📦 Featured Projects
 
-- 👺 Red Team (C2 frameworks, persistência)
-- 🦠 Malware dev com foco em bypass de antivírus
-- 📡 Exfiltração de dados em ambientes simulados
+- 🔐 **Keylogger educacional** with clean output, encrypted ZIP, and SMTP delivery
+- ⚙️ **Recon toolkit** Subdomain enumeration, port scanning, screenshots & passive/active recon automation
+- 🧬 **Payload builder** Modular payload generator with basic AV evasion techniques for labs
 
 ---
 
-### 📫 Contato
+### 📚 Currently Studying
 
-<p>
-  <img src="https://img.shields.io/badge/c0nezera%40proton.me-red?style=flat-square&logo=protonmail" />
-</p>
+- 👺 Red Team (C2 frameworks, persistence, lateral movement)
+- 🦠  Malware development focused on AV bypass
+- 📡 Data exfiltration techniques in simulated environments
+
+---
+
+### 📫 Contact
+
+<a href="mailto:c0nezera@proton.me"> <img src="https://img.shields.io/badge/email-c0nezera@proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/enzofreitas"> <img src="https://img.shields.io/badge/GitHub-enzofreitas-black?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzofreitas&show_icons=true&theme=radical" height="181"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofreitas&layout=compact&theme=radical" height="181"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enzofreitas&show_icons=true&theme=radical&cache_seconds=3600" height="181"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofreitas&layout=compact&theme=radical&cache_seconds=3600" height="181"/>
 </p>
+
 
 ---
 
-> ⚠️ Todos os projetos são educacionais e utilizados em ambientes controlados.  
-> ❌ Nunca use ferramentas de forma maliciosa ou sem autorização.
+> ⚠️ All projects are for educational purposes and run in controlled environments.  
+> ❌ Never use tools without proper authorization.
 > 
-> 🧠 *“A melhor forma de defender é entender como atacar.”*
+> 🧠 *“The best way to defend is to understand how to attack.”*
