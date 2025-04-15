@@ -46,15 +46,15 @@
 
 ### 📫 Contact
 
-<a href="mailto:c0nezera@proton.me"> <img src="https://img.shields.io/badge/email-c0nezera@proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/c0neX"> <img src="https://img.shields.io/badge/GitHub-enzofreitas-black?style=for-the-badge&logo=github" /> </a> </p>
+<a href="mailto:c0nezera@proton.me"> <img src="https://img.shields.io/badge/email-c0nezera@proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/c0neX"> <img src="https://img.shields.io/badge/GitHub-c0neX-black?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzofreitas&show_icons=true&theme=radical&cache_seconds=3600" height="181"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofreitas&layout=compact&theme=radical&cache_seconds=3600" height="181"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=c0neX&show_icons=true&theme=radical&cache_seconds=3600" height="181"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0neX&layout=compact&theme=radical&cache_seconds=3600" height="181"/>
 </p>
 
 
