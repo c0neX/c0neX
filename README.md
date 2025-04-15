@@ -46,7 +46,7 @@
 
 ### 📫 Contact
 
-<a href="mailto:c0nezera@proton.me"> <img src="https://img.shields.io/badge/email-c0nezera@proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/enzofreitas"> <img src="https://img.shields.io/badge/GitHub-enzofreitas-black?style=for-the-badge&logo=github" /> </a> </p>
+<a href="mailto:c0nezera@proton.me"> <img src="https://img.shields.io/badge/email-c0nezera@proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/c0neX"> <img src="https://img.shields.io/badge/GitHub-enzofreitas-black?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
