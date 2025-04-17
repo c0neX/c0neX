@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c0neX&show_icons=true&theme=radical&cache_seconds=3600" height="181"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0neX&layout=compact&theme=radical&cache_seconds=3600" height="181"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0neX&layout=compact&theme=radical" height="181"/>
 </p>
 
 
